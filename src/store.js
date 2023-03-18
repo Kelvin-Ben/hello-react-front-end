@@ -4,6 +4,6 @@ import greetingReducer from './reducers/greetingReducer';
 
 const initialState = {};
 
-const store = createStore(rootReducer, initialState, applyMiddleware(thunk));
+const store = createStore(greetingReducer, initialState, applyMiddleware(thunk));
 
 export default store;

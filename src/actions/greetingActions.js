@@ -7,3 +7,5 @@ export const getRandomGreeting = () => async (dispatch) => {
     payload: res.data.message,
   });
 };
+
+export default getRandomGreeting;
