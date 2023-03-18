@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### A link to [hello-rails-backend](https://github.com/Kelvin-Ben/hello-rails-back-end) Api App
+
 ### `npm start`
 
 Runs the app in the development mode.\
